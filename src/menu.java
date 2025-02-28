@@ -9,3 +9,4 @@ public class menu {
             }
     }
 }
+//why your sudoku do not have a UI?
